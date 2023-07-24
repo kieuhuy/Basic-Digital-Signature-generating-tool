@@ -1,4 +1,4 @@
-# Basic RSA application
+# Basic RSA cryptosystem application
 The goal of this project is to develop a straightforward application that securely encrypts and decrypts private communications using the RSA method. Additionally, it can produce a digital signature to confirm the authenticity and integrity of the data and to prevent the signer from rejecting the contribution of others.
 
 # 1) Main application:
